@@ -59,10 +59,10 @@ export default function HTML(props) {
               en: {
                 consentModal: {
                   title: 'Services we would like to use',
-                  description: 'Here you can evaluate and customize the services that we would like to use on this website. You are in charge! Please enable or disable the services at your convenience. Here you can select the service that we would like to use on this website. But you decide.',
+                  description: 'test description',
                 },
                 consentNotice:  {
-                  description: "We use our own and third party (Google) cookies, analytical/performance/measurement cookies to improve the usability and content of our website and to analyze web traffic. You can change your mind later in the cookie policy.",
+                  description: "here is test description",
                   learnMore: "Configure cookies",
                 },
                 decline: 'Deactivate all',
